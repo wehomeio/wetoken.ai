@@ -1952,3 +1952,12 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
   }
 }
 
+.section-11 .w-row, .section-12 .w-row {
+  text-align: center;
+}
+
+.section-11 .w-col, .section-12 .w-col {
+  float: none;
+  display: inline-block;
+  vertical-align: top;
+}
